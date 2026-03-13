@@ -4,7 +4,7 @@ Name: Magnolia Myers
 Date: 3/13/2026
 
 After completing the practice test, please reflect on your experience by
-answering the questions below. Replace each `TODO` with a thoughtful response
+answering the questions below. Replace each `T ODO` with a thoughtful response
 (a few sentences each). Your responses help you consolidate what you learned
 and identify areas to review before the real midterm.
 
@@ -102,7 +102,7 @@ What is the value of `2 ** 2 ** 3`? Show your step-by-step reasoning.
 
 **Your Answer:**
 
-TODO
+Classes are a way to create objects and functions. They are necessary in programming because they are a way to make it easier to use other values and reuse code, and keeps things organized. 
 
 ---
 
