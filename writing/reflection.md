@@ -1,7 +1,7 @@
 # CS101 Spring 2026 — Practice Midterm Reflection
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Magnolia Myers
+Date: 3/13/2026
 
 After completing the practice test, please reflect on your experience by
 answering the questions below. Replace each `TODO` with a thoughtful response
@@ -17,7 +17,7 @@ Which topics felt most comfortable, and which ones felt most difficult?
 
 **Your Answer:**
 
-TODO
+I think I did pretty well on the practice test. I had the most difficulty with things like lambda functions and classes.
 
 ---
 
@@ -28,7 +28,7 @@ Explain the concept being tested and describe why the correct answer is right.
 
 **Your Answer:**
 
-TODO
+One question that I was unsure about was 18, which was the lambda function. The correct answer is right because 3 is less than 7, so they are added to get 10. 
 
 ---
 
@@ -39,7 +39,7 @@ with a positive step versus a negative step. Give one original example of each.
 
 **Your Answer:**
 
-TODO
+A postive step increases the numbers, and the negative step decreases it. A positve step in range(1, 10, 3) would give 1, 4, 7. A negative step in range (10, 1, 2) would give 10, 8, 6, 4, 2.
 
 ---
 
@@ -51,7 +51,7 @@ dictionary and a set. When would you choose each?
 
 **Your Answer:**
 
-TODO
+A list and tuple are different because tuples cannot be changed and lists can. Dictionaries and sets are different because a dictionary stores paired items with keys and values, while sets are just lists. They also don't allow for duplicates. Lists would be useful if you have a lot of data. Tuples would  be useful for fixed constants. Dictionaries would be useful if you have two things that need to stay together, like city and city name. Sets would be useful if you need to remove dupliates from something. 
 
 ---
 
@@ -63,7 +63,7 @@ the caller omits that argument.
 
 **Your Answer:**
 
-TODO
+A default parameter in a Python function is something that is set so that if something isn't called in a function, the program still works. For example if you used a function to greet people that asked for name, and name was not entered, then it could return something like "Hello Guest" instead. 
 
 ---
 
@@ -81,7 +81,7 @@ for n in range(1, 11):
 
 **Your Answer:**
 
-TODO
+result = [x*2 for x in range(1, 11) if x%3 == 0]
 
 ---
 
@@ -92,7 +92,7 @@ What is the value of `2 ** 2 ** 3`? Show your step-by-step reasoning.
 
 **Your Answer:**
 
-TODO
+2^3 is 8, and 2^8 is 128. 
 
 ---
 
